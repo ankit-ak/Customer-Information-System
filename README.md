@@ -1,7 +1,10 @@
-# Customer-Information-System
-Customer Information System form with DB (GUI) in python 
-Tkinter
-SQLite
+SELECT MAX(ds) FROM s1 WHERE ds NOT IN (SELECT MAX(ds) FROM s1);
+
+
+
+
+
+
 
 
 
