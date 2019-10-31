@@ -1,3 +1,38 @@
+https://drive.google.com/file/d/1cUVmDgT6vy41WMfmzi39No0psoXaRmQp/view?usp=sharing
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 SELECT MAX(ds) FROM s1 WHERE ds NOT IN (SELECT MAX(ds) FROM s1);
 
 
